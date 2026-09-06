@@ -1,30 +1,41 @@
-# Hi, I'm Naksh Choudhary 👋
+# Naksh
 
-I'm a student builder working across **robotics, artificial intelligence, embedded systems, and accessible technology**. I enjoy turning ambitious ideas into practical prototypes that connect hardware and software.
+**Student Developer | Robotics, Embedded Systems & Accessible AI**
 
-## What I build
+## Profile
 
-- Robotics and embedded hardware projects
-- Accessible AI tools
-- Full-stack web applications and interactive prototypes
-- Well-structured project concepts, system designs, and development roadmaps
+I design and prototype systems that connect embedded hardware, artificial intelligence, computer vision, and accessible interfaces. My work focuses on practical applications, clear technical documentation, and structured development.
 
-## Featured work
+## Focus Areas
 
-- **ABLE** — an accessibility-focused platform designed to support people with visual and speech-related challenges.
-- **Project Ideas** — an organized collection of future product concepts, technical plans, architectures, and build roadmaps.
-- **ENDVORA** — an active project repository that will be expanded with documentation and source files.
+- Robotics and embedded systems
+- Accessible artificial intelligence
+- Computer vision and intelligent interfaces
+- Full-stack web applications
+- Product concepts and technical architecture
 
-## Technologies and interests
+## Featured Projects
 
-`Arduino` · `ESP32` · `Raspberry Pi` · `Python` · `C/C++` · `TypeScript` · `React` · `AI/ML` · `Computer Vision`
+| Project | Summary | Status |
+|---|---|---|
+| [ABLE](https://github.com/EnderFleetOg/ABLE) | Accessibility-focused AI platform with speech, camera, and adaptive-interface features | Prototype |
+| [ENDVORA](https://github.com/EnderFleetOg/ENDVORA) | Project archive currently being reorganized into a documented source repository | In development |
+| [Project Ideas](https://github.com/EnderFleetOg/project-ideas) | Structured product concepts with technical plans, architectures, and roadmaps | Active |
 
-## Project status system
+## Technical Toolkit
 
-Each repository will clearly identify its current stage:
+**Hardware:** Arduino, ESP32, Raspberry Pi
+
+**Languages and frameworks:** Python, C/C++, TypeScript, React
+
+**Domains:** Embedded systems, AI/ML, computer vision, accessible technology
+
+## Repository Standards
+
+Each repository is clearly labelled as one of the following:
 
 - **Built** — working implementation
 - **Prototype** — functional development in progress
 - **Concept** — documented idea or system design
 
-Explore my pinned repositories to see what I'm currently building.
+Project documentation is updated as implementations progress.
