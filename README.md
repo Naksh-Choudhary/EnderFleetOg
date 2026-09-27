@@ -39,3 +39,13 @@ Each repository is clearly labelled as one of the following:
 - **Concept** — documented idea or system design
 
 Project documentation is updated as implementations progress.
+
+## Current GitHub links
+
+The repositories currently published under **Naksh-Choudhary** include:
+
+- **ABLEHOST** — [github.com/Naksh-Choudhary/ABLEHOST](https://github.com/Naksh-Choudhary/ABLEHOST)
+- **WebLite** — [github.com/Naksh-Choudhary/WebLite](https://github.com/Naksh-Choudhary/WebLite)
+- **Project Ideas** — [github.com/Naksh-Choudhary/project-ideas](https://github.com/Naksh-Choudhary/project-ideas)
+
+The earlier project references above are kept as part of this repository's existing information; this section provides the current public repository locations.
